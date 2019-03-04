@@ -1,0 +1,38 @@
+{ 
+    "success" : true,
+    "data":  { 
+        "articleList": [{
+            "id": 1,
+            "title": "多少往事如一梦——李煜《望江南》",
+            "desc": "​​文：芰荷一枝 闲梦远，南国正芳春。船上管弦江面绿，满城飞絮辊轻尘。忙杀看花人！ ——李煜《望江南.闲梦远》 闲梦远，南国正清秋。千里江山寒...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/12894461-938fa93d2adb8e36.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 2,
+            "title": "多少往事如一梦——李煜《望江南》",
+            "desc": "​​文：芰荷一枝 闲梦远，南国正芳春。船上管弦江面绿，满城飞絮辊轻尘。忙杀看花人！ ——李煜《望江南.闲梦远》 闲梦远，南国正清秋。千里江山寒...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/12894461-938fa93d2adb8e36.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 3,
+            "title": "多少往事如一梦——李煜《望江南》",
+            "desc": "​​文：芰荷一枝 闲梦远，南国正芳春。船上管弦江面绿，满城飞絮辊轻尘。忙杀看花人！ ——李煜《望江南.闲梦远》 闲梦远，南国正清秋。千里江山寒...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/12894461-938fa93d2adb8e36.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{
+            "id": 4,
+            "title": "多少往事如一梦——李煜《望江南》",
+            "desc": "​​文：芰荷一枝 闲梦远，南国正芳春。船上管弦江面绿，满城飞絮辊轻尘。忙杀看花人！ ——李煜《望江南.闲梦远》 闲梦远，南国正清秋。千里江山寒...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/12894461-938fa93d2adb8e36.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        },{ 
+            "id": 5,
+            "title": "多少往事如一梦——李煜《望江南》",
+            "desc": "​​文：芰荷一枝 闲梦远，南国正芳春。船上管弦江面绿，满城飞絮辊轻尘。忙杀看花人！ ——李煜《望江南.闲梦远》 闲梦远，南国正清秋。千里江山寒...",
+            "imgUrl": "//upload-images.jianshu.io/upload_images/12894461-938fa93d2adb8e36.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }],
+        "recommendList": [{
+            "id": 1,
+            "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+        },{
+            "id": 2,
+            "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+        }]
+    }
+}
